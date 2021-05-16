@@ -3,8 +3,10 @@
 
 ## Built With
 * [Scikit-learn](https://scikit-learn.org/stable/) - ML library used
-* [Tensorflow](https://www.tensorflow.org/) - ML library used
+* [Tensorflow Keras](https://www.tensorflow.org/guide/keras/sequential_model) - ML library used
+* [Pytorch](https://pytorch.org/) - ML library used
 * [ReactJS](https://reactjs.org/) - Javascript framework used
+* [Pandas](https://pandas.pydata.org/) - Python Data Manipulation library used
 * [Seaborn](https://seaborn.pydata.org/) - Data Visualization library used
 
 ## Collaborators
